@@ -1,6 +1,6 @@
 # Awesome China Travel Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub stars](https://img.shields.io/github/stars/jackelon/awesome-china-travel-guide?style=flat-square)](https://github.com/jackelon/awesome-china-travel-guide/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/jackelon/awesome-china-travel-guide?style=flat-square)](https://github.com/jackelon/awesome-china-travel-guide)
 [![Last update](https://img.shields.io/github/last-commit/jackelon/awesome-china-travel-guide?style=flat-square&label=last%20update)](https://github.com/jackelon/awesome-china-travel-guide/commits)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
