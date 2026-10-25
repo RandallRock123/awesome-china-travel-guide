@@ -95,6 +95,7 @@ Prepare a mobile payment app and a cash backup. These guides cover foreign-card 
 ## Essential Apps
 
 - ⭐ [Amap for Foreigners](https://china-revealed.com/articles/amap-for-foreigners-china/) - Navigation, transit routes and English mode.
+- [chinamapbook](https://chinamapbook.com/) - Free browser-based pre-trip map for saving sights, food and notes, then exporting a place-organized PDF with Chinese names for offline use.
 - [How to Use DiDi in China](https://china-revealed.com/articles/didi-for-foreigners-china/) - Ride-hailing setup, payment and your first ride.
 - [How to Use Meituan in China](https://china-revealed.com/articles/meituan-for-foreigners-china/) - Food delivery, deals and local services.
 - [Dianping for Foreigners](https://china-revealed.com/articles/dianping-for-foreigners-china/) - Restaurant reviews, deals and vouchers.
