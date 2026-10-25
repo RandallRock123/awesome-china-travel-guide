@@ -101,6 +101,7 @@ Prepare a mobile payment app and a cash backup. These guides cover foreign-card 
 - [Xiaohongshu for Foreigners](https://china-revealed.com/articles/xiaohongshu-for-foreigners-china/) - Using RedNote for travel tips and restaurants.
 - [Best Translation Apps for China](https://china-revealed.com/articles/best-translation-apps-china/) - AI, voice and offline translation.
 - [Why Trip.com for China (and How to Use It)](https://china-revealed.com/articles/trip-com-china-booking-guide/) - Booking hotels, trains and flights in English.
+- [chinamapbook](https://chinamapbook.com/) - Free China sightseeing map for saving sights, food and notes into an offline personal PDF book.
 
 ## Transportation
 
